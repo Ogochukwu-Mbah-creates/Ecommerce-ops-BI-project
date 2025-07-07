@@ -46,13 +46,3 @@ In Power BI:
 ## Outcome
 
 This project demonstrates end-to-end capability in preparing, modeling, analyzing, and visualizing complex data for business decision-making. It reflects practical skills in using SQL and Power BI together to transform raw operational data into actionable insights.
-
-
-  - Created a custom Date Table using `List.Dates` in Power Query to enable time intelligence features like YoY and MoM comparisons.  
-  - Engineered calculated columns in Power BI, including:
-    - A `Product Bundle` field from merged columns.
-    - A `Delivery Status Category` column to classify delivery performance by city as "On Time", "Mild Delay", or "Severe Delay".
-    - A region-based classification column to power filled map visuals for geographic delivery trends.
-
----
-

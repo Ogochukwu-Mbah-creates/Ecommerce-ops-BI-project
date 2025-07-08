@@ -3,7 +3,8 @@
 This project was based on a dataset originally designed for the 10alytics June Hackathon. Although I discovered the competition after the deadline, I chose to work on the data independently to enhance my data analytics and business intelligence skills.
 
 The primary goal was to uncover key business insights from operational data and present them in a clean, dynamic, and decision-oriented Power BI report.
-[link to the project folder, contains screenshots of dashboard, pbix file, dataset, py file, ssms file](https://drive.google.com/drive/folders/1119TcKVu4whV6Na7hwfQIffR9ACR5xSa)
+
+### [link to the project folder](https://drive.google.com/drive/folders/1119TcKVu4whV6Na7hwfQIffR9ACR5xSa) The folder contains screenshots of dashboard, pbix file, dataset, py file, ssms file.
 ---
 
 ## Data Collection, Cleaning & Transformation
